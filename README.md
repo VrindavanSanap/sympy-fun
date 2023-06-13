@@ -1,5 +1,7 @@
 # Sympy-Fun
 
+All math stuff
+
 ## Multivariable Calculus to Transformer Paper
 
 ### Courses and Problem Sets I Follow
@@ -12,5 +14,5 @@
   Website: [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
   
 - **Dr. Peyam's Multivariable Calculus Course**  
-  YouTube Channel: [Dr. Peyam's YouTube Channel](https://www.youtube.com/channel/UC6wlzVp-IMUHkjkmm5XQZVw)  
+  YouTube Channel: [Dr. Peyam's YouTube Channel](https://www.youtube.com/channel/UCoOjTxz-u5zU0W38zMkQIFw)  
   
