@@ -1,4 +1,4 @@
-# Sympy-Fun
+
 
 All math stuff
 
